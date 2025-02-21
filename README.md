@@ -33,7 +33,8 @@ A **Chrome extension** that scans **GitHub search results** and downloads **all 
 - Go to [GitHub](https://github.com) and use the **search bar** at the top.
 - Search for **`package.json`** using a relevant query.  
   Example search query:  
-   ``` org:microsoft path:**/package.json ```
+   ```sh
+  org:microsoft path:**/package.json
 
 ## 📜 Future Updates (Roadmap)
 - Support for additional file types: Enable downloading of .md, .txt, .csv, and .xml files.
@@ -41,3 +42,20 @@ A **Chrome extension** that scans **GitHub search results** and downloads **all 
 - Download Progress Status: Add a progress bar or notification to track file downloads.
 
 ## 🚀 Stay tuned for more updates! If you have feature suggestions, feel free to contribute.
+# 🚀 Contributing to GitHub File Downloader
+
+We welcome contributions to improve **GitHub File Downloader**! 🎉  
+Follow these steps to contribute effectively.
+
+---
+
+## 🛠 How to Contribute
+### 1️⃣ Fork the Repository
+- Click the **Fork** button on the top right of this repository.
+- This will create a copy of the repo under your GitHub account.
+
+### 2️⃣ Clone Your Fork
+```sh
+git clone https://github.com/YOUR-USERNAME/GitHub-File-Downloader.git
+cd GitHub-File-Downloader
+
