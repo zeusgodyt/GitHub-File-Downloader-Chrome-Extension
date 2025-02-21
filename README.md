@@ -1,12 +1,12 @@
 # 📂 GitHub File Downloader Chrome Extension
 
-A Chrome extension that allows users to **scan and download `package.json` files** from GitHub repositories **instantly** without the "Save As" popup.
+A **Chrome extension** that scans **GitHub search results** and downloads **all `package.json` files** from the listed repositories **instantly**.
 
 ## 🚀 Features
-✅ Scan GitHub repositories for `package.json` files.  
-✅ Download files **automatically** with names like `package1.json`, `package2.json`, etc.  
-✅ No "Save As" popups—files are saved directly.  
-✅ Lightweight and easy to use!  
+✅ **Search & Download:** Enter a query in the GitHub search bar, and the extension will scan all repositories in the search results.  
+✅ **Batch Download:** Automatically downloads **all** `package.json` files from multiple repositories.  
+✅ **No "Save As" Popup:** Files are saved directly as `package1.json`, `package2.json`, `package3.json`, etc.  
+✅ **Fast & Efficient:** Saves time by avoiding manual downloads.  
 
 ---
 
@@ -29,29 +29,8 @@ A Chrome extension that allows users to **scan and download `package.json` files
 ---
 
 ## 📌 How to Use
-### Step 1: Open a GitHub Repository
-- Navigate to any **GitHub repository** where you want to download `package.json` files.
-
-### Step 2: Open the Extension Popup
-- Click on the 📂 **GitHub File Downloader** extension icon.
-
-### Step 3: Scan and Download Files
-- Click **🔍 Scan Files** to find `package.json` files in the repository.
-- A list of found files will appear.  
-- Click **📥 Download Selected** to save them instantly as `package1.json`, `package2.json`, etc.
-
----
-
-## 🤝 Contributing
-- Found a bug? Have a suggestion? Open an **issue** on GitHub!  
-- Feel free to **fork** this repo and submit **pull requests**.  
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
-### 🌟 Show Your Support
-If you find this extension helpful, **star this repository ⭐ on GitHub**!
+### Step 1: Search on GitHub
+- Go to [GitHub](https://github.com) and use the **search bar** at the top.
+- Search for **`package.json`** using a relevant query.  
+  Example search query:  
+   ``` org:microsoft path:**/package.json ```
