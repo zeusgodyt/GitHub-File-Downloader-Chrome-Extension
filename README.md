@@ -34,3 +34,10 @@ A **Chrome extension** that scans **GitHub search results** and downloads **all 
 - Search for **`package.json`** using a relevant query.  
   Example search query:  
    ``` org:microsoft path:**/package.json ```
+
+## 📜 Future Updates (Roadmap)
+-🔹 Support for additional file types: Enable downloading of .md, .txt, .csv, and .xml files.
+-🔹 UI Improvements: Enhance the user interface for a smoother experience.
+-🔹 Download Progress Status: Add a progress bar or notification to track file downloads.
+
+## 🚀 Stay tuned for more updates! If you have feature suggestions, feel free to contribute.
