@@ -56,6 +56,5 @@ Follow these steps to contribute effectively.
 
 ### 2️⃣ Clone Your Fork
 ```sh
-git clone https://github.com/YOUR-USERNAME/GitHub-File-Downloader.git
-cd GitHub-File-Downloader
+git clone https://github.com/zeusgodyt/GitHub-File-Downloader-Chrome-Extension.git
 
