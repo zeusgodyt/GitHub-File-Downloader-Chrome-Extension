@@ -37,7 +37,7 @@ A **Chrome extension** that scans **GitHub search results** and downloads **all 
   org:microsoft path:**/package.json
 
 ## 🎥 Demo Video
-[![Watch the demo](icons/tutorial.mp4)
+[![Watch the demo](icons/demo.png)](icons/demo_video.mp4)
 
 
 ## 📜 Future Updates (Roadmap)
