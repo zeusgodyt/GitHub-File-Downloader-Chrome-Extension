@@ -40,7 +40,7 @@ A **Chrome extension** that scans **GitHub search results** and downloads **all 
 
 ### 📌 Image Preview  
 <p align="center">
-  <img src="icons/demo.png" alt="Demo Preview" width="600">
+  <img src="icons/demo.png" alt="Demo Preview" width="300">
 </p>
 
 ### 🔥 Live Demo (GIF)  
