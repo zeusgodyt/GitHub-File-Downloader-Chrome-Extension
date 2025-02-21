@@ -37,7 +37,7 @@ A **Chrome extension** that scans **GitHub search results** and downloads **all 
   org:microsoft path:**/package.json
 
 ## 📜 Future Updates (Roadmap)
-- Support for additional file types: Enable downloading of gemfile, requirements.txt files.
+- Support for additional file types: Enable downloading of gemfile and requirements.txt files.
 - UI Improvements: Enhance the user interface for a smoother experience.
 - Download Progress Status: Add a progress bar or notification to track file downloads.
 
