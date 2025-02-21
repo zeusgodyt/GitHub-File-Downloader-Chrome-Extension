@@ -1,0 +1,41 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub File Downloader</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>📂 GitHub File Downloader</h2>
+        <p>Select file types to scan:</p>
+
+        <div id="file-type-container">
+            <label><input type="checkbox" value=".json"> package.json</label><br>
+            <!-- <label><input type="checkbox" value=".md"> README.md</label><br>
+            <label><input type="checkbox" value=".txt"> .txt</label><br>
+            <label><input type="checkbox" value=".csv"> .csv</label><br>
+            <label><input type="checkbox" value=".xml"> .xml</label><br> -->
+        </div>
+
+        <button id="scan-btn">🔍 Scan Files</button>
+
+        <!-- New Select All container -->
+        <div id="select-all-container" style="display: none; margin-top: 10px;">
+            <label>
+                <input type="checkbox" id="select-all-checkbox">
+                Select All Files
+            </label>
+        </div>
+
+        <div id="file-list" class="file-list">
+            <p>🔔 Found files will appear here...</p>
+        </div>
+
+        <button id="download-btn" disabled>📥 Download Selected</button>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>
