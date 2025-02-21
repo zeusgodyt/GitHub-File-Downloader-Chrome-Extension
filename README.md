@@ -36,6 +36,10 @@ A **Chrome extension** that scans **GitHub search results** and downloads **all 
    ```sh
   org:microsoft path:**/package.json
 
+## 🎥 Demo Video
+[![Watch the demo](icons/tutorial.mp4)
+
+
 ## 📜 Future Updates (Roadmap)
 - Support for additional file types: Enable downloading of gemfile and requirements.txt files.
 - UI Improvements: Enhance the user interface for a smoother experience.
