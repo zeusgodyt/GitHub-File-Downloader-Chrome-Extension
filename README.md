@@ -52,14 +52,11 @@ A **Chrome extension** that scans **GitHub search results** and downloads **all 
 - UI Improvements: Enhance the user interface for a smoother experience.
 - Download Progress Status: Add a progress bar or notification to track file downloads.
 
-# 🚀 Stay tuned for more updates! If you have feature suggestions, feel free to contribute.
 ## 🚀 Contributing to GitHub File Downloader
 
 We welcome contributions to improve **GitHub File Downloader**! 🎉  
 Follow these steps to contribute effectively.
-
 ---
-
 ## 🛠 How to Contribute
 ### 1️⃣ Fork the Repository
 - Click the **Fork** button on the top right of this repository.
