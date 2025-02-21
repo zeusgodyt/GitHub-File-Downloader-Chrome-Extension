@@ -46,6 +46,13 @@ A **Chrome extension** that scans **GitHub search results** and downloads **all 
 ### 🔥 Live Demo (GIF)  
 ![Demo GIF](icons/demo.gif)
 
+## 📌 Use Cases  
+
+🔍 **Security Research** – This tool helps security researchers identify **dependency confusion vulnerabilities** by automating the download of `package.json` files from multiple repositories.  
+
+⚡ **Automated Analysis** – Researchers can analyze dependencies in the downloaded files to check for **unclaimed package names** on npm and attempt **package hijacking** attacks in a controlled environment.  
+
+🛠 **Bug Bounty & Pentesting** – Pentesters and bug bounty hunters can quickly collect dependency information to **assess supply chain risks** in open-source projects.  
 
 ## 📜 Future Updates (Roadmap)
 - Support for additional file types: Enable downloading of gemfile and requirements.txt files.
