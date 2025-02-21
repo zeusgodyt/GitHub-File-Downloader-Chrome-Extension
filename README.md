@@ -42,15 +42,6 @@ A Chrome extension that allows users to **scan and download `package.json` files
 
 ---
 
-## 🔒 Permissions Used
-This extension requires the following permissions:
-- `downloads` → To save files directly to your computer.
-- `activeTab` → To interact with the currently open GitHub page.
-- `scripting` → To scan and fetch file URLs from GitHub pages.
-- `host_permissions` → Access to `https://github.com/*` to detect and download files.
-
----
-
 ## 🤝 Contributing
 - Found a bug? Have a suggestion? Open an **issue** on GitHub!  
 - Feel free to **fork** this repo and submit **pull requests**.  
